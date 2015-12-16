@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CityNights</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_home">Home</string>
+    <string name="action_suche">Suche</string>
+    <string name="action_navigation">Navigation</string>
+    <string name="action_konto">Konto</string>
+    <string name="action_buchungen">Buchungen</string>
+    <string name="action_favoriten">Favoriten</string>
+    <string name="action_einstellungen">Einstellungen</string>
+    <string name="action_uber">Über Uns</string>
+</resources>
